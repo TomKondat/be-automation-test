@@ -45,3 +45,6 @@ buildNumber.properties
 
 # VSCode
 .vscode/
+
+# Env vars
+.env
